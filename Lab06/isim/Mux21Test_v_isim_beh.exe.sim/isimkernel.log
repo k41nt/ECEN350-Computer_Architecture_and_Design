@@ -1,0 +1,28 @@
+Command line:
+   Mux21Test_v_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56996
+
+Tue Nov 14 02:47:14 2017
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 1042.94 Meg
+
+ Total Signals          : 20
+ Total Nets             : 20
+ Total Signal Drivers   : 11
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 13
+ Total Traceable Variables  : 31
+ Total Scalar Nets and Variables : 264
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 1042.94 Meg
+
+Tue Nov 14 02:47:24 2017
+

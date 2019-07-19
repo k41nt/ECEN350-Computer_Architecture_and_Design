@@ -1,0 +1,28 @@
+Command line:
+   GatesTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57020
+
+Tue Nov 14 02:50:04 2017
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 1042.94 Meg
+
+ Total Signals          : 16
+ Total Nets             : 18
+ Total Signal Drivers   : 9
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 19
+ Total Scalar Nets and Variables : 100
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 1042.94 Meg
+
+Tue Nov 14 02:50:08 2017
+

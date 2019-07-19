@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Academic/Fall 2017/ECEN 350/Lab07/SignExtender_tb_isim_beh.exe" -prj "C:/Academic/Fall 2017/ECEN 350/Lab07/SignExtender_tb_beh.prj" "work.SignExtender_tb" "work.glbl" 

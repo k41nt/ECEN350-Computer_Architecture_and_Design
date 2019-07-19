@@ -1,0 +1,28 @@
+Command line:
+   JKTest_v_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57016
+
+Tue Nov 14 02:49:06 2017
+
+
+ Elaboration Time: 0.109375 sec
+
+ Current Memory Usage: 1042.37 Meg
+
+ Total Signals          : 23
+ Total Nets             : 22
+ Total Signal Drivers   : 14
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 16
+ Total Traceable Variables  : 29
+ Total Scalar Nets and Variables : 261
+
+ Total Simulation Time: 0.125 sec
+
+ Current Memory Usage: 1042.37 Meg
+
+Tue Nov 14 02:49:14 2017
+
